@@ -258,6 +258,7 @@ var SCENE_OBJECT12 = new BodyDef;
      
   // Une fois les objets crées, il faut les dessiner et les animer.
   // Il faut utiliser une fonction de rappel. 
+     alert("scroller en bas pour voir le score");
 
       carre();  
      
